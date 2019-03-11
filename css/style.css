@@ -4,14 +4,14 @@
 }
 
 body {
-   font-family: 'IBM Plex Sans', sans-serif;
-   font-weight: 200;
+   font-family: var(--font-family--reading-text);
+   font-weight: var(--extra-light);
    margin: auto;
    width: 666px;
 }
 
 h1 {
-   font-family: 'Patua One', cursive;
+   font-family: var(--font-family--headings);
    font-size: 72px;
    text-align: center;
 }
@@ -27,8 +27,8 @@ nav ul {
 }
 
 nav ul li {
-   height: 40px;
-   line-height: 40px;
+   height: var(--height--nav-item);
+   line-height: var(--height--nav-item);
    text-align: center;
    width: 222px;
 }
@@ -38,12 +38,12 @@ p {
 }
 
 a {
-   background-color: #eee;
+   background-color: var(--background-color--anchors);
    display: block;
-   font-weight: 400;
+   font-weight: var(--regular);
    text-decoration: none;
 }
 
 a:hover {
-   background-color: #ffe6e6;
+   background-color: var(--background-color--anchors--hover);
 }
