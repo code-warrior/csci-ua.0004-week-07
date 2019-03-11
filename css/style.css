@@ -4,6 +4,16 @@
 }
 
 body {
+   /* background-color: rebeccapurple; */
+   /* background-color: #663399; */
+   /* background-color: #639; */
+   /* background-color: #6397; */
+   /* background-color: #663399ff; */
+   /* background-color: rgb(102, 51, 153); */
+   /* background-color: rgba(102, 51, 153, .5924727374); */
+   /* background-color: hsl(122, 100%, 50%); */
+   background-color: hsla(122, 100%, 50%, .2);
+
    font-family: 'IBM Plex Sans', sans-serif;
    font-weight: 200;
    margin: auto;
