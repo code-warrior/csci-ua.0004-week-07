@@ -1,0 +1,49 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   font-family: 'IBM Plex Sans', sans-serif;
+   font-weight: 200;
+   margin: auto;
+   width: 666px;
+}
+
+h1 {
+   font-family: 'Patua One', cursive;
+   font-size: 72px;
+   text-align: center;
+}
+
+nav {
+   margin-top: 14px;
+}
+
+nav ul {
+   display: flex;
+   justify-content: center;
+   list-style-type: none;
+}
+
+nav ul li {
+   height: 40px;
+   line-height: 40px;
+   text-align: center;
+   width: 222px;
+}
+
+p {
+   margin: 20px 0;
+}
+
+a {
+   background-color: #eee;
+   display: block;
+   font-weight: 400;
+   text-decoration: none;
+}
+
+a:hover {
+   background-color: #ffe6e6;
+}
