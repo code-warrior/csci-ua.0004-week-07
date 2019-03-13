@@ -1,0 +1,9 @@
+:root {
+   --height--nav-item: 40px;
+   --font-family--reading-text: 'IBM Plex Sans', sans-serif;
+   --font-family--headings: 'Patua One', cursive;
+   --extra-light: 200;
+   --regular: 400;
+   --background-color--anchors: #eee;
+   --background-color--anchors--hover: #ffe6e6;
+}
